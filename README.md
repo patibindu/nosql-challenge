@@ -12,6 +12,7 @@ Files
 Download the following files to help you get started:
 
 Module 12 Challenge filesLinks to an external site.
+https://static.bc-edx.com/data/dl-1-2/m12/lms/starter/Starter_Code.zip
 
 Instructions
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
